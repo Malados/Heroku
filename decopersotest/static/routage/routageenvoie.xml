@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root><Titre type="canape" /><Description>Canapé pour client test</Description><Typepapier type="PAPIER_STANDARD" /><Clients><client nom="TESTULTIME" prenom="TESTPRENOM" email="email@email.fr" adresse="13 Rue Auguste Perret" ville="Rueil-Malmaison" codepostale="92500" /><client nom="Test1" prenom="Test2" email="000@hotmail.fr" adresse="15 rue tour effeil" ville="paris" codepostale="75000" /></Clients><Marchandises><marchandise nom="Canape" prix="500.00" /></Marchandises></Root>
